@@ -1,4 +1,29 @@
+# Foreword
+
+The extrafont R package was created and maintained by [Winston Chang](https://github.com/wch) on [github](https://github.com/wch/fontcm) for more than 13 years with a first commit on github the 17th of May 2012.
+The previous commit history of the package can be found [here](https://github.com/wch/fontcm).
+The responsibilities and attention of Winston Chang are on things quite far away from fontcm, extrafont, extrafontdb and Rttf2pt1 these days. 
+I volunteered to maintain fontcm and extrafontdb [(read here)](https://github.com/wch/Rttf2pt1/issues/25#issuecomment-3329970593).
+
+The following text almost exactly the original readme from Winston Chang repository on [github](https://github.com/wch/fontcm), only some links were updated and badges and doi added.
+
+-------------------
+
 # fontcm
+
+<https://doi.org/10.32614/CRAN.package.fontcm>
+
+-------------------
+
+<!-- badges: start -->
+[![R-CMD-check](https://github.com/fbertran/fontcm/actions/workflows/R-CMD-check.yaml/badge.svg)](https://github.com/fbertran/fontcm/actions/workflows/R-CMD-check.yaml)
+[![DOI](https://img.shields.io/badge/doi-10.32614/CRAN.package.fontcm-blue.svg)](https://doi.org/10.32614/CRAN.package.fontcm)
+[![Lifecycle: stable](https://img.shields.io/badge/lifecycle-stable-green.svg)](https://lifecycle.r-lib.org/articles/stages.html)
+[![CRAN status](https://www.r-pkg.org/badges/version/fontcm)](https://cran.r-project.org/package=fontcm)
+<!-- badges: end -->
+
+-------------------
+
 
 This package contains the Computer Modern font with Paul Murrell's symbol extensions, and is to be used with the **extrafont** package.
 

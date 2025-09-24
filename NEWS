@@ -1,3 +1,12 @@
+fontcm 1.2
+===========
+
+* Fixes to pass R CMD check
+
+* Maintainer change
+
+* Add package DOI
+
 fontcm 1.1
 ===========
 
