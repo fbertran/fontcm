@@ -3,7 +3,7 @@
 The fontcm R package was created and maintained by [Winston Chang](https://github.com/wch) on [github](https://github.com/wch/fontcm) for more than 13 years with a first commit on github the 21st of May 2012.
 The previous commit history of the package can be found [here](https://github.com/wch/fontcm).
 The responsibilities and attention of Winston Chang are on things quite far away from fontcm, extrafont, extrafontdb and Rttf2pt1 these days. 
-I volunteered to maintain fontcm and extrafontdb [(read here)](https://github.com/wch/Rttf2pt1/issues/25#issuecomment-3329970593).
+I volunteered to maintain fontcm and extrafontdb [(read here)](https://github.com/wch/Rttf2pt1/issues/25#issuecomment-3329970593) in addition to extrafont and Rttf2pt1.
 
 The following text almost exactly the original readme from Winston Chang repository on [github](https://github.com/wch/fontcm), only some links were updated and badges and doi added.
 
